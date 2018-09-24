@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "XmlDisplay";
+}
+
+<h2>Show XML</h2>
+<table class="table table-responsive table-bordered table-striped">
+    <thead style="background-color:azure">
+        <tr>
+            <th> Id</th>
+            <th> Imie</th>
+            <th> Nazwisko</th>
+            <th> Telefon</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <th> @item.Id</th>
+            <th> @item.Imie</th>
+            <th> @item.Nazwisko</th>
+            <th> @item.Telefon</th>
+        </tr>
+        }
+    </tbody>
+
+</table> 
+

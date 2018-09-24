@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Customer>
+  
+  <Customer>
+    <Id>1</Id>
+    <Imie>Fred</Imie>
+    <Nazwisko>Nowak</Nazwisko>
+    <Telefon>675842953</Telefon>
+  </Customer>
+  
+  <Customer>
+    <Id>2</Id>
+    <Imie>Dawid</Imie>
+    <Nazwisko>Kowalski</Nazwisko>
+    <Telefon>293859284</Telefon>
+  </Customer>
+
+   <Customer>
+    <Id>3</Id>
+    <Imie>Marek</Imie>
+    <Nazwisko>Wiśniewski</Nazwisko>
+    <Telefon>533743678</Telefon>
+  </Customer>
+
+   <Customer>
+    <Id>4</Id>
+    <Imie>Łukasz</Imie>
+    <Nazwisko>Kamiński</Nazwisko>
+    <Telefon>284853217</Telefon>
+  </Customer>
+
+  <Customer>
+    <Id>5</Id>
+    <Imie>Igor</Imie>
+    <Nazwisko>Kowalczyk</Nazwisko>
+    <Telefon>394643297</Telefon>
+  </Customer>
+  
+</Customer>
